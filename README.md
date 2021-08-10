@@ -6,7 +6,7 @@
    email: chandramdutta2004@gmail.com
 
 <a href="https://github.com/Chandram-Dutta">
-<img align="center" alt="Chandram's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chandram-Dutta&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="Chandram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chandram-Dutta&hide=prs,issues,contribs&show_icons=true&theme=tokyonight"/></a>
 
 <a href="https://github.com/Chandram-Dutta">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chandram-Dutta&layout=compact&theme=radical" />
