@@ -9,7 +9,7 @@
 <img align="center" alt="Chandram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chandram-Dutta&hide=prs,issues,contribs&show_icons=true&theme=tokyonight"/></a>
 
 <a href="https://github.com/Chandram-Dutta">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chandram-Dutta&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Chandram-Dutta&layout=compact&theme=tokyonight" />
 </a>
 
 
