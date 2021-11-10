@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chandramdutta" target="blank"><img src="https://img.shields.io/twitter/follow/chandramdutta?logo=twitter&style=for-the-badge" alt="chandramdutta" /></a> </p>
 
-- 🔭 I’m currently working on [DebConf App](https://github.com/Chandram-Dutta/debconf)
+- 🔭 I’m currently working on [Promodoro(Pomodoro Timer) for Elementary OS](https://github.com/Chandram-Dutta/promodoro-vala)
 
 - 🌱 I’m currently learning **Everthing that I have learned...coz no one stops learning😉**
 
