@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chandram Dutta.</h1>
-<h3 align="center">#17teen yo dev tinkering with Flutter, Vala & Gtk.</h3>
+<h3 align="center">#18teen yo dev tinkering with Flutter, Solidity(Ethereum Blockchain)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandram-dutta&label=Profile%20views&color=0e75b6&style=flat" alt="chandram-dutta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chandramdutta" target="blank"><img src="https://img.shields.io/twitter/follow/chandramdutta?logo=twitter&style=for-the-badge" alt="chandramdutta" /></a> </p>
 
-- 🔭 I’m currently working on [Promodoro(Pomodoro Timer) for Elementary OS](https://github.com/Chandram-Dutta/promodoro-vala)
+- 🔭 I’m currently working on Spotify UI Clone
 
 - 🌱 I’m currently learning **Everthing that I have learned...coz no one stops learning😉**
 
