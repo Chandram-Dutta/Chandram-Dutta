@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chandramdutta" target="blank"><img src="https://img.shields.io/twitter/follow/chandramdutta?logo=twitter&style=for-the-badge" alt="chandramdutta" /></a> </p>
 
-- 🔭 I’m currently working on Spotify UI Clone
+- 🔭 I’m currently working on [Managed You](https://github.com/Managed-You/managed-web)
 
 - 🌱 I’m currently learning **Everthing that I have learned...coz no one stops learning😉**
 
