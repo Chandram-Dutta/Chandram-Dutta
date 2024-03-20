@@ -6,4 +6,4 @@ read more on my [portfolio](https://chandramdutta.vercel.app/)
 
 peace out!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandram-Dutta&layout=donut)
+<a href="https://wakatime.com"><img width=500 src="https://wakatime.com/share/@ChandramDutta/02ee9ed2-91ee-4a02-b627-1321e6393d7e.png" /></a>
